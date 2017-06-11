@@ -1,4 +1,4 @@
-//#include <SoftwareSerial.h>
+#include <SoftwareSerial.h>
 #include "GSMAx.h"
 #include "GSMAx_mqtt.h"
 #include "DHT.h"
